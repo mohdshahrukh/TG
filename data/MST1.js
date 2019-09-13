@@ -11,7 +11,7 @@ var data= {
           {
             "-QType": "FillUp",
             "-Heading": "Fill in the blanks:",
-            "-defaultMark": "5",
+            "-defaultMark": "1",
             "item": [
               {
                 "-Question": "1.\tA computer is a __________."
@@ -33,7 +33,7 @@ var data= {
 		  {
             "-QType": "FillUp",
             "-Heading": "Write ‘T’ for true and ‘F’ for false:",
-            "-defaultMark": "5",
+            "-defaultMark": "1",
             "item": [
               {
                 "-Question": "1.\tA fridge is found outside our houses.\t______"
@@ -55,10 +55,10 @@ var data= {
           {
             "-QType": "FillUp",
             "-Heading": "Tick the correct option.",
-            "-defaultMark": "5",
+            "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\tMachine are __________ things.\n\n(a) natural      (b) man-made     (c) magical\r\n"
+                "-Question": "1.\tMachine are __________ things.\n\t(a) natural      (b) man-made     (c) magical\r\n"
               },
               {
                 "-Question": "2.\tA computer runs on __________.\n\t(a) fuel      (b) electricity    (c) human power\n"
@@ -112,7 +112,7 @@ var data= {
           {
             "-QType": "FillUp",
             "-Heading": "Fill in the blanks:",
-            "-defaultMark": "5",
+            "-defaultMark": "1",
             "item": [
               {
                 "-Question": "1.\tThe CPU is the _______ of the computer."
@@ -134,7 +134,7 @@ var data= {
 		  {
             "-QType": "FillUp",
             "-Heading": "Write ‘T’ for true and ‘F’ for false:",
-            "-defaultMark": "5",
+            "-defaultMark": "1",
             "item": [
               {
                 "-Question": "1.\tA keyboard has one button.\t\t\t\t______"
@@ -156,19 +156,19 @@ var data= {
           {
             "-QType": "FillUp",
             "-Heading": "Tick the correct option.",
-            "-defaultMark": "5",
+            "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\tA monitor looks like a:\r\n(a)\tmouse      (b) television     (c) typewriter\r\n"
+                "-Question": "1.\tA monitor looks like a:\r\n\t(a) mouse      (b) television     (c) typewriter\r\n"
               },
               {
-                "-Question": "2.\tIt is the brain of the computer.\n(a) CPU      (b) UPS    (c) Monitor\n"
+                "-Question": "2.\tIt is the brain of the computer.\n\t(a) CPU      (b) UPS    (c) Monitor\n"
               },
               {
-                "-Question": "3.\tThis is used to print our work on paper.\n\n(a) Speakers      (b) Mouse   (c) Printer\n"
+                "-Question": "3.\tThis is used to print our work on paper.\n\t(a) Speakers      (b) Mouse   (c) Printer\n"
               },
               {
-                "-Question": "4.\tIt keeps the computer ON even if the electricity goes OFF.\n\n(a) CPU      (b) UPS   (c) Mouse\n"
+                "-Question": "4.\tIt keeps the computer ON even if the electricity goes OFF.\n\t(a) CPU      (b) UPS   (c) Mouse\n"
               }
             ]
           },
@@ -213,7 +213,7 @@ var data= {
           {
             "-QType": "FillUp",
             "-Heading": "Fill in the blanks:",
-            "-defaultMark": "5",
+            "-defaultMark": "1",
             "item": [
               {
                 "-Question": "1.\tWe can solve ____ on a computer."
@@ -235,7 +235,7 @@ var data= {
 		  {
             "-QType": "FillUp",
             "-Heading": "Write ‘T’ for true and ‘F’ for false:",
-            "-defaultMark": "5",
+            "-defaultMark": "1",
             "item": [
               {
                 "-Question": "1.\tWe can draw and colour on a computer.\t\t\t______"
@@ -257,10 +257,10 @@ var data= {
           {
             "-QType": "FillUp",
             "-Heading": "Tick the correct option.",
-            "-defaultMark": "5",
+            "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\tComputer are used to:\n\t(a) play games      (b)watch movies     (c) both of these\r\n"
+                "-Question": "1.\tComputer are used to:\n\t(a) play games      (b) watch movies     (c) both of these\r\n"
               },
               {
                 "-Question": "2.\tA computer is used to listen to:\n\t(a) pictures      (b) music    (c) games\n"
