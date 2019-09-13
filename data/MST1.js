@@ -96,10 +96,10 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-OptionImage": "MST1/1.jpg"
+                "-OptionImage": "MST1/1.JPG"
               },
 			  {
-                "-OptionImage": "MST1/2.jpg"
+                "-OptionImage": "MST1/2.JPG"
               }
             ]
           }
@@ -197,10 +197,10 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-OptionImage": "MST1/3.jpg"
+                "-OptionImage": "MST1/3.JPG"
               },
 			  {
-                "-OptionImage": "MST1/4.jpg"
+                "-OptionImage": "MST1/4.JPG"
               }
             ]
           }
@@ -295,7 +295,7 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-OptionImage": "MST1/5.jpg"
+                "-OptionImage": "MST1/5.JPG"
               }
             ]
           }
